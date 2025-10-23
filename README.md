@@ -4,21 +4,21 @@ I analyzed 40,000+ global COVID-19 records from "Our World in Data" to quantify 
 ## Key Public Health Findings
 
 ### 1. Massive Regional Mortality Disparities
-- **Europe experienced 17x higher death rates** than Africa (146 deaths/million vs 8.67 deaths/million)
+- *Europe experienced 17x higher death rates* than Africa (146 deaths/million vs 8.67 deaths/million)
 - South America and North America showed intermediate rates (110 and 59 deaths/million respectively)
-- **Implication:** Regional healthcare capacity and demographic structure significantly impact outcomes
+- *Implication:* Regional healthcare capacity and demographic structure significantly impact outcomes
 
 ### 2. Demographic Risk Correlation
-- **Strong positive correlation (0.768)** between percentage of population aged 65+ and COVID mortality
+- *Strong positive correlation (0.768)* between percentage of population aged 65+ and COVID mortality
 - Europe's elderly population (17.74% aged 65+) correlated with highest death rates
 - Africa's younger demographics (3.69% aged 65+) associated with lowest mortality
-- **Implication:** Age distribution is a primary predictor of pandemic vulnerability
+- *Implication:* Age distribution is a primary predictor of pandemic vulnerability
 
 ### 3. Continental Performance Analysis
 - **Asia:** 20.45 deaths/million despite moderate elderly population (6.45%)
 - **Oceania:** 10.23 deaths/million with effective containment strategies
 - **Africa:** Youngest population contributed to lowest mortality burden
-- **Implication:** Demographic factors interact with healthcare infrastructure and policy response
+- *Implication:* Demographic factors interact with healthcare infrastructure and policy response
 
 ## Visualizations
 
@@ -85,34 +85,11 @@ pip install pandas matplotlib sqlite3
 python covid_viz.py
 ```
 
-**Expected Output:**
-- SQL query results showing continental death rates
-- Pearson correlation coefficient (0.768)
-- Two publication-ready PNG visualizations
-
-## Key Insights for Data Analysis
-
-My goal through this project is to demonstrate these skills:
-- **Data cleaning** on large real-world datasets (40K+ rows)
-- **SQL proficiency** with complex aggregations and GROUP BY operations
-- **Statistical thinking** through correlation analysis and hypothesis validation
-- **Communication skills** via clear visualizations and actionable insights
-
 ## Author
 
 **Abdoul Rahim Ousseini**  
 Northwestern University | Computer Science + Mathematics  
 [LinkedIn](https://www.linkedin.com/in/abdoul-rahim-ousseini-246854245/) | [GitHub](https://github.com/abdoulousseini2028-droid)
-
----
-
-## Project Context
-
-Developed as part of data analytics portfolio demonstrating ability to:
-- Work with messy real-world public health data
-- Apply statistical methods to validate hypotheses
-- Translate complex findings into stakeholder-ready insights
-- Use industry-standard tools (Python, SQL, Matplotlib)
 
 **Related Projects:**
 - [Superstore Sales Analysis](link-to-other-repo) - Business analytics and profitability optimization
