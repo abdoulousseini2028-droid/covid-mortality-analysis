@@ -1,6 +1,14 @@
 ## Quick summary
 I analyzed 40,000+ global COVID-19 records from "Our World in Data" to quantify the relationship between population demographics and pandemic mortality rates. Identified a strong correlation (r=0.77) between elderly population percentage and death rates, which reveals critical insights for public health resource allocation.
 
+## Dataset Details
+
+**Source:** Our World in Data (OWID) COVID-19 Dataset  
+**Size:** 44,785 rows × 41 columns  
+**Variables:** Cases, deaths, testing rates, demographics, healthcare capacity  
+**Time Range:** 2020-2021 (early pandemic through vaccine rollout)
+**Download:** [OWID COVID Data on Kaggle](https://www.kaggle.com/datasets/bolkonsky/covid19)
+
 ##  Findings
 
 ### 1. Massive Regional Mortality Disparities
@@ -45,13 +53,7 @@ I analyzed 40,000+ global COVID-19 records from "Our World in Data" to quantify 
 - Scatter plots with continent labels for correlation analysis
 - Color-coded visualizations for stakeholder clarity
 
-## Dataset Details
 
-**Source:** Our World in Data (OWID) COVID-19 Dataset  
-**Size:** 44,785 rows × 41 columns  
-**Variables:** Cases, deaths, testing rates, demographics, healthcare capacity  
-**Time Range:** 2020-2021 (early pandemic through vaccine rollout)
-**Download:** [OWID COVID Data on Kaggle](https://www.kaggle.com/datasets/bolkonsky/covid19)
 
 ## Public Health Implications
 
