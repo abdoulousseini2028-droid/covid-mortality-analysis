@@ -1,12 +1,11 @@
 ## Summary
 I analyzed 40,000+ global COVID-19 records from "Our World in Data" to quantify the relationship between population demographics and pandemic mortality rates. Identified a strong correlation (r=0.77) between elderly population percentage and death rates, which reveals critical insights for public health resource allocation.
 
-## Key Public Health Findings
+##  Findings
 
 ### 1. Massive Regional Mortality Disparities
 - *Europe experienced 17x higher death rates* than Africa (146 deaths/million vs 8.67 deaths/million)
 - South America and North America showed intermediate rates (110 and 59 deaths/million respectively)
-- *Implication:* Regional healthcare capacity and demographic structure significantly impact outcomes
 
 ### 2. Demographic Risk Correlation
 - *Strong positive correlation (0.768)* between percentage of population aged 65+ and COVID mortality
@@ -18,7 +17,6 @@ I analyzed 40,000+ global COVID-19 records from "Our World in Data" to quantify 
 - **Asia:** 20.45 deaths/million despite moderate elderly population (6.45%)
 - **Oceania:** 10.23 deaths/million with effective containment strategies
 - **Africa:** Youngest population contributed to lowest mortality burden
-- *Implication:* Demographic factors interact with healthcare infrastructure and policy response
 
 ## Visualizations
 
