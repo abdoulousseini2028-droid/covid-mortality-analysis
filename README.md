@@ -1,4 +1,4 @@
-## Summary
+## Quick summary
 I analyzed 40,000+ global COVID-19 records from "Our World in Data" to quantify the relationship between population demographics and pandemic mortality rates. Identified a strong correlation (r=0.77) between elderly population percentage and death rates, which reveals critical insights for public health resource allocation.
 
 ##  Findings
